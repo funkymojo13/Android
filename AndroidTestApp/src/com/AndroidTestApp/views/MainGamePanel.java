@@ -11,10 +11,6 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
 public class MainGamePanel extends SurfaceView implements SurfaceHolder.Callback {
-
-	//THIS IS A CHANGE GODDAMNIT!
-	
-	
 	private static final String TAG = MainGamePanel.class.getSimpleName();
 	
 	private MainThread thread;
