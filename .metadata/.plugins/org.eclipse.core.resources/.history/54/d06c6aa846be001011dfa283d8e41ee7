@@ -1,0 +1,24 @@
+package com.luminant;
+
+import java.util.ArrayList;
+
+import android.content.Context;
+import android.widget.ScrollView;
+
+public class InfiniteScroll extends ScrollView {
+
+	private ArrayList dataItems = new ArrayList();
+	
+	public InfiniteScroll(Context context) {
+		super(context);
+	}
+
+	public ArrayList getDataItems() {
+		return dataItems;
+	}
+
+	public void setDataItems(ArrayList dataItems) {
+		this.dataItems = dataItems;
+	}
+	
+}

@@ -1,0 +1,7 @@
+package com.luminant;
+
+import android.widget.ScrollView;
+
+public class InfiniteScroll extends ScrollView {
+
+}

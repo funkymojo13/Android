@@ -1,0 +1,53 @@
+package com.luminant;
+
+import java.util.ArrayList;
+
+import android.content.Context;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.ScrollView;
+
+public class InfiniteScroll extends ScrollView {
+
+	private ArrayList<String> dataItems = new ArrayList<String>();
+	
+	public InfiniteScroll(Context context) {
+		super(context);
+	}
+
+	public ArrayList<String> getDataItems() {
+		return dataItems;
+	}
+
+	public void setDataItems(ArrayList<String> dataItems) {
+		this.dataItems = dataItems;
+		
+		this.removeAllViews();
+	
+		if( this.dataItems != null ) {
+			for( String s : dataItems ) {
+				
+				LinearLayout layout = createLinearLayout();
+				
+			}
+		}
+	}
+
+	private LinearLayout createLinearLayout() {
+		LinearLayout layout = new LinearLayout(this.getContext());
+		RelativeLayout dataPanel = createDataPanel();
+		RelativeLayout graphPanel = createGraphPanel();
+		
+		return layout;
+	}
+
+	private RelativeLayout createDataPanel() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	private RelativeLayout createGraphPanel() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

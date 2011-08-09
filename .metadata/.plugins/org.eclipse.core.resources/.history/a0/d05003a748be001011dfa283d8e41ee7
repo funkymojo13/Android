@@ -1,0 +1,64 @@
+package com.luminant;
+
+import java.util.ArrayList;
+
+import android.content.Context;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.ScrollView;
+import android.widget.TextView;
+
+public class InfiniteScroll extends ScrollView {
+
+	private ArrayList<String> dataItems = new ArrayList<String>();
+	
+	public InfiniteScroll(Context context) {
+		super(context);
+	}
+
+	public ArrayList<String> getDataItems() {
+		return dataItems;
+	}
+
+	public void setDataItems(ArrayList<String> dataItems) {
+		this.dataItems = dataItems;
+		
+		this.removeAllViews();
+	
+		if( this.dataItems != null ) {
+			for( String s : dataItems ) {
+				
+				LinearLayout layout = createLinearLayout();
+				
+			}
+		}
+	}
+
+	private LinearLayout createLinearLayout() {
+		LinearLayout layout = new LinearLayout(this.getContext());
+		RelativeLayout dataPanel = createDataPanel();
+		RelativeLayout graphPanel = createGraphPanel();
+		
+		return layout;
+	}
+
+	private RelativeLayout createDataPanel() {
+		RelativeLayout dataPanel = new RelativeLayout(this.getContext());
+		TextView textView = new TextView(this.getContext());
+		textView.setText("Hello");
+		
+		dataPanel.addView(textView);
+		
+		return dataPanel;
+	}
+	
+	private RelativeLayout createGraphPanel() {
+		RelativeLayout graphPanel = new RelativeLayout(this.getContext());
+		TextView textView = new TextView(this.getContext());
+		textView.setText("Hello");
+		
+		graphPanel.addView(textView);
+		
+		return graphPanel;
+	}
+}

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>SpringSource Team Blog</title>
+	
+	<link>http://blog.springsource.com</link>
+	<description>The voice of SpringSource</description>
+	<lastBuildDate>Thu, 04 Aug 2011 11:45:48 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/SpringSourceTeamBlog" /><feedburner:info uri="springsourceteamblog" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Debugging DSLD Scripts</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/Zh8Ov2TpZME/</link>
+		<comments>http://blog.springsource.com/2011/08/02/debugging-dsld-scripts/#comments</comments>
+		<pubDate>Tue, 02 Aug 2011 21:30:06 +0000</pubDate>
+		<dc:creator>Andrew Eisenberg</dc:creator>
+				<category><![CDATA[Groovy/Grails]]></category>
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9171</guid>
+		<description>Debugging techniques for Groovy DSL Descriptors in Groovy-Eclipse.&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/Zh8Ov2TpZME" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/08/02/debugging-dsld-scripts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/08/02/debugging-dsld-scripts/</feedburner:origLink></item>
+		<item>
+		<title>Spring Security Configuration with Scala</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/bgr50MBCGhs/</link>
+		<comments>http://blog.springsource.com/2011/08/01/spring-security-configuration-with-scala/#comments</comments>
+		<pubDate>Mon, 01 Aug 2011 18:18:52 +0000</pubDate>
+		<dc:creator>Luke Taylor</dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Scala]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9105</guid>
+		<description>In a previous article, Behind the Spring Security Namespace, I talked about how the Spring Security namespace has been very successful in providing a simple alternative to plain Spring bean configuration, but how there is still a steep learning curve when you want to start customizing its behaviour. Behind the XML elements and attributes, various [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/bgr50MBCGhs" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/08/01/spring-security-configuration-with-scala/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/08/01/spring-security-configuration-with-scala/</feedburner:origLink></item>
+		<item>
+		<title>Fine-tuning Spring Data repositories</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/dtSlrabL8fw/</link>
+		<comments>http://blog.springsource.com/2011/07/27/fine-tuning-spring-data-repositories/#comments</comments>
+		<pubDate>Wed, 27 Jul 2011 18:37:02 +0000</pubDate>
+		<dc:creator>Oliver Gierke</dc:creator>
+				<category><![CDATA[Data Access]]></category>
+		<category><![CDATA[Spring Data]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9164</guid>
+		<description>It&amp;#039;s only been a few days only since we&amp;#039;ve released Spring Data JPA 1.0 GA which is the first major version of a Spring Data project shipping with an implementation of the repository abstraction inside our Spring Data Commons module. The repository abstraction consists of three major parts: defining a repository interface, exposing CRUD methods [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/dtSlrabL8fw" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/07/27/fine-tuning-spring-data-repositories/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/07/27/fine-tuning-spring-data-repositories/</feedburner:origLink></item>
+		<item>
+		<title>Social Coding: Pull Requests – What to Do When Things Get Complicated</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/WdhwYru2hPU/</link>
+		<comments>http://blog.springsource.com/2011/07/18/social-coding-pull-requests-what-to-do-when-things-get-complicated/#comments</comments>
+		<pubDate>Mon, 18 Jul 2011 11:02:50 +0000</pubDate>
+		<dc:creator>Dave Syer</dc:creator>
+				<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9121</guid>
+		<description>Scenario: you want to contribute some code to an open source project hosted on a public git repository service like github. Lots of people make pull requests to projects I&amp;#039;m involved in and many times they are more complicated to merge than they need to be, which slows down the process a bit. The basic [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/WdhwYru2hPU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/07/18/social-coding-pull-requests-what-to-do-when-things-get-complicated/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/07/18/social-coding-pull-requests-what-to-do-when-things-get-complicated/</feedburner:origLink></item>
+		<item>
+		<title>Countdown to Grails 2.0: Static resources</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/v1JrdPgLzqg/</link>
+		<comments>http://blog.springsource.com/2011/06/30/countdown-to-grails-2-0-static-resources/#comments</comments>
+		<pubDate>Thu, 30 Jun 2011 16:08:51 +0000</pubDate>
+		<dc:creator>Peter Ledbrook</dc:creator>
+				<category><![CDATA[Groovy/Grails]]></category>
+		<category><![CDATA[Web]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9059</guid>
+		<description>Web applications typically rely heavily on what we call static resources, such as Javascript, CSS and image files. In a Grails application, they are put into a project&amp;#039;s web-app directory and then referenced from the HTML. For example, &amp;#60;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;${resource(dir: 'css', file: 'main.css')}&amp;#34; type=&amp;#34;text/css&amp;#34;&amp;#62; will create a link to the file web-app/css/main.css. All very [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/v1JrdPgLzqg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/30/countdown-to-grails-2-0-static-resources/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/30/countdown-to-grails-2-0-static-resources/</feedburner:origLink></item>
+		<item>
+		<title>Spring 3.1 M2: Testing with @Configuration Classes and Profiles</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/X5evaw_oywM/</link>
+		<comments>http://blog.springsource.com/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles/#comments</comments>
+		<pubDate>Tue, 21 Jun 2011 23:07:34 +0000</pubDate>
+		<dc:creator>Sam Brannen</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[spring 3.1]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=9002</guid>
+		<description>As Jürgen Höller mentioned in his post announcing the release of Spring 3.1 M2, the Spring TestContext Framework(*) has been overhauled to provide first-class testing support for @Configuration classes and environment profiles. In this post I&amp;#039;ll first walk you through some examples that demonstrate these new testing features. I&amp;#039;ll then cover some of the new [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/X5evaw_oywM" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles/</feedburner:origLink></item>
+		<item>
+		<title>Defining the Future for Virtualized and Cloud Java</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/dhhTZVsTYag/</link>
+		<comments>http://blog.springsource.com/2011/06/14/announcing-vfabric-5/#comments</comments>
+		<pubDate>Tue, 14 Jun 2011 15:00:44 +0000</pubDate>
+		<dc:creator>Rod Johnson</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[SpringSource]]></category>
+		<category><![CDATA[VMware]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8978</guid>
+		<description>Today I am proud to announce version 5 of our VMware vFabric™ application platform defining the future of enterprise Java for cloud and virtualized execution environments. vFabric blazes the path to new and modern cloud architectures by providing a modern programming model paired with next-generation platform services. A path that is not overgrown with the [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/dhhTZVsTYag" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/14/announcing-vfabric-5/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/14/announcing-vfabric-5/</feedburner:origLink></item>
+		<item>
+		<title>Spring 3.1 M2: Spring MVC Enhancements</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/q_jUIV3N55Q/</link>
+		<comments>http://blog.springsource.com/2011/06/13/spring-3-1-m2-spring-mvc-enhancements-2/#comments</comments>
+		<pubDate>Mon, 13 Jun 2011 09:50:41 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Web]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8994</guid>
+		<description>This post focuses on what&amp;#039;s new for Spring MVC in Spring 3.1 M2. Here are the topics: Code-based equivalent for the MVC namespace. Customizable @MVC processing. Programming model improvements. A brief reminder that the features discussed here are in action at the Greenhouse project. Code-based Configuration For Spring MVC As Chris pointed out in his [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/q_jUIV3N55Q" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/13/spring-3-1-m2-spring-mvc-enhancements-2/feed/</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/13/spring-3-1-m2-spring-mvc-enhancements-2/</feedburner:origLink></item>
+		<item>
+		<title>Spring 3.1 M2: Configuration Enhancements</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/2uWd4zp7voE/</link>
+		<comments>http://blog.springsource.com/2011/06/10/spring-3-1-m2-configuration-enhancements/#comments</comments>
+		<pubDate>Fri, 10 Jun 2011 13:00:27 +0000</pubDate>
+		<dc:creator>Chris Beams</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[IOC Container]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8868</guid>
+		<description>As Juergen mentioned in his post yesterday, and as I&amp;#039;ve mentioned in my previous posts on 3.1 M1, one of the major themes of Spring 3.1 is completing our vision for code-based configuration in Spring. We think a modern enterprise Java application should have a choice between Java and XML as first class options for [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/2uWd4zp7voE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/10/spring-3-1-m2-configuration-enhancements/feed/</wfw:commentRss>
+		<slash:comments>31</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/10/spring-3-1-m2-configuration-enhancements/</feedburner:origLink></item>
+		<item>
+		<title>Spring Framework 3.1 M2 released</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/kgnYZs3AmOw/</link>
+		<comments>http://blog.springsource.com/2011/06/09/spring-framework-3-1-m2-released/#comments</comments>
+		<pubDate>Thu, 09 Jun 2011 21:52:35 +0000</pubDate>
+		<dc:creator>Juergen Hoeller</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8849</guid>
+		<description>Spring Framework 3.1 M2 has been released this week, marking the end of the 3.1 milestone phase. We are moving on to the release candidate phase now, preparing for a feature-complete RC1 in July and a GA release in September. 3.1 M2 completes the work on several major themes started in 3.1 M1 back in [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/kgnYZs3AmOw" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/06/09/spring-framework-3-1-m2-released/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/06/09/spring-framework-3-1-m2-released/</feedburner:origLink></item>
+	</channel>
+</rss>

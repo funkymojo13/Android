@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.net.URLConnection"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="com.Android.TestApp.io.JSonReader"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.codehaus.jackson.map.ObjectMapper"/>
+<fullyQualifiedTypeName name="test.dataClasses.DataIntervalType"/>
+<fullyQualifiedTypeName name="org.codehaus.jackson.map.DeserializationConfig.Feature"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="test.dataClasses.BaseDataSet"/>
+<fullyQualifiedTypeName name="java.sql.Wrapper"/>
+<fullyQualifiedTypeName name="test.dataClasses.Wrapper"/>
+<fullyQualifiedTypeName name="org.codehaus.jackson.annotate.JsonProperty"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Text"/>
+<fullyQualifiedTypeName name="android.app.TabActivity"/>
+<fullyQualifiedTypeName name="com.luminant.R.layout"/>
+<fullyQualifiedTypeName name="android.content.res.Resources"/>
+<fullyQualifiedTypeName name="android.widget.TabHost"/>
+<fullyQualifiedTypeName name="android.widget.TabHost.TabSpec"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.luminant.ChartsAppActivity"/>
+<fullyQualifiedTypeName name="com.luminant.R.drawable"/>
+<fullyQualifiedTypeName name="android.widget.ScrollView"/>
+<fullyQualifiedTypeName name="android.widget.HorizontalScrollView"/>
+<fullyQualifiedTypeName name="android.widget.RelativeLayout"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.luminant.InfiniteScroll"/>
+<fullyQualifiedTypeName name="com.luminant.R.attr"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup.LayoutParams"/>
+</qualifiedTypeNameHistroy>
