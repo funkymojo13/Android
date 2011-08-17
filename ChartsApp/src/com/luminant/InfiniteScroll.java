@@ -3,6 +3,8 @@ package com.luminant;
 import java.util.ArrayList;
 
 import android.content.Context;
+import android.graphics.drawable.Drawable;
+import android.graphics.drawable.DrawableContainer;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
@@ -64,8 +66,10 @@ public class InfiniteScroll extends ScrollView {
 	private RelativeLayout createDataPanel() {
 		RelativeLayout dataPanel = new RelativeLayout(this.getContext());
 		TextView textView = new TextView(this.getContext());
-		textView.setLayoutParams(ViewGroup.LayoutParams.FILL_PARENT)
+		ViewGroup.LayoutParams textViewLayoutParams = new ViewGroup.LayoutParams(180, 100);
+		textView.setLayoutParams(textViewLayoutParams);
 		textView.setText("Hello");
+		textView.setBackgroundResource(R.drawable.background);
 		
 		dataPanel.addView(textView);
 		
@@ -75,6 +79,9 @@ public class InfiniteScroll extends ScrollView {
 	private RelativeLayout createGraphPanel() {
 		RelativeLayout graphPanel = new RelativeLayout(this.getContext());
 		TextView textView = new TextView(this.getContext());
+		ViewGroup.LayoutParams textViewLayoutParams = new ViewGroup.LayoutParams(180, 100);
+		textView.setLayoutParams(textViewLayoutParams);
+		textView.setBackgroundResource(R.drawable.background);
 		textView.setText("World");
 		
 		graphPanel.addView(textView);
